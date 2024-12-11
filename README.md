@@ -41,12 +41,7 @@ The game is based on the concept of forming **sets of three cards** (trincas) us
   - To manage the discard pile.
   - Players can only interact with the top card.
 
-### Core Functionalities:
-1. **Shuffle Deck:** Randomizes the card order at the start of the game.
-2. **Card Drawing:** Allows players to draw from either the deck or the discard pile.
-3. **Trinca Validation:** Checks if a set of cards forms a valid trinca.
-4. **Victory Check:** Ends the game when a player has no cards left.
-5. **Organized Display:** Provides a clear view of the game's current state, including each player's hand and formed trincas.
+--
 
 ** |\---/| 
 ** |     | 
